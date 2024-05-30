@@ -1,9 +1,9 @@
 
-## README
+## Park Si Hyung 👋 🙆‍♂️
 
-- My Resume is here! 👉 [RESUME](https://teveloper.notion.site/Sihyung-Park-75d6d11045fa437fbf34fb467e56914c)
-- 🌱 I’m currently working as Front Engineer at [DSHARE](https://www.dshare.co.kr/)
-- 📝 I regularly write articles on [BLOG](https://teveloper.tistory.com/)
+- My Resume is here! 👉 [Resume](https://teveloper.notion.site/Sihyung-Park-75d6d11045fa437fbf34fb467e56914c)
+- 🌱 I’m currently working as Front Engineer at [Dshare](https://www.dshare.co.kr/)
+- 📝 I regularly write articles on [Blog](https://teveloper.tistory.com/)
 - My Email is here! 👉  shpkc@naver.com
 
 ### Recent Articles
@@ -16,3 +16,9 @@
 - 2021.06 ~ 2023.10 Yeoshin Ticket FE development
 - 2020.09 ~ 2021.05 Apost Korea FE development
 - 2019.08 ~ 2020.09 Blendin FE development
+
+<br/>
+
+
+[![blog](https://img.shields.io/badge/Blog-%23000000.svg?&style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white)](https://teveloper.tistory.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sihyung-park-1a8805211/)
