@@ -14,3 +14,5 @@
 ### Careers
 - 2023.10 ~ Current Dshare FE developer
 - 2021.06 ~ 2023.10 Yeoshin Ticket FE development
+- 2020.09 ~ 2021.05 Apost Korea FE development
+- 2019.08 ~ 2020.09 Blendin FE development
