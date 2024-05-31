@@ -7,6 +7,7 @@
 - My Email is here! 👉  shpkc@naver.com
 
 ### Recent Articles
+- [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
 - [모듈 번들러의 탄생과 Rollup.js 파헤치기](https://teveloper.tistory.com/78)
 - [[Next.js] Turborepo의 캐싱 과정과 build시 적용되지 않았던 이슈](https://teveloper.tistory.com/77)
 - [[1인 앱 개발] 테니스장 앱 '타이브레이크' 출시 후기](https://teveloper.tistory.com/70)
