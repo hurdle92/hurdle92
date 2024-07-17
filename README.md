@@ -7,6 +7,7 @@
 - My Email is here! 👉  shpkc@naver.com
 
 ### Recent Articles
+- [ts-pattern으로 선언적으로 분기처리하기](https://teveloper.tistory.com/84)
 - [Micro Frontend를 위한 Module Federation](https://teveloper.tistory.com/80)
 - [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
 - [모듈 번들러의 탄생과 Rollup.js 파헤치기](https://teveloper.tistory.com/78)
