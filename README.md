@@ -7,11 +7,12 @@
 - My Email is here! 👉  shpkc@naver.com
 
 ### Recent Articles
+- [GeekNight 2024 발표자 참가 후기](v)
+- [테니스 치는 개발자가 테니스 다이어리앱을 만들기 까지](https://teveloper.tistory.com/90)
 - [ts-pattern으로 선언적으로 분기처리하기](https://teveloper.tistory.com/84)
 - [Micro Frontend를 위한 Module Federation](https://teveloper.tistory.com/80)
 - [직장인들의 IT 개발모임 직띵(Zicdding) FE 스터디 발표 후기](https://teveloper.tistory.com/79)
 - [모듈 번들러의 탄생과 Rollup.js 파헤치기](https://teveloper.tistory.com/78)
-- [[1인 앱 개발] 테니스장 앱 '타이브레이크' 출시 후기](https://teveloper.tistory.com/70)
 
 ### Careers
 - 2023.10 ~ Current Dshare FE developer
